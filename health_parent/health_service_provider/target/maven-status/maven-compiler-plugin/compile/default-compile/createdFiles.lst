@@ -1,0 +1,17 @@
+com\fremont\service\impl\UserServiceImpl.class
+com\fremont\service\impl\OrderServiceImpl.class
+com\fremont\dao\CheckGroupDao.class
+com\fremont\service\impl\CheckItemServiceImpl.class
+com\fremont\service\impl\ReportServiceImpl.class
+com\fremont\dao\MemberDao.class
+com\fremont\dao\CheckItemDao.class
+com\fremont\dao\RoleDao.class
+com\fremont\service\impl\OrderSettingServiceImpl.class
+com\fremont\dao\OrderDao.class
+com\fremont\service\impl\CheckGroupServiceImpl.class
+com\fremont\dao\PermissionDao.class
+com\fremont\service\impl\MemberServiceImpl.class
+com\fremont\dao\SetmealDao.class
+com\fremont\dao\OrderSettingDao.class
+com\fremont\dao\UserDao.class
+com\fremont\service\impl\SetmealServiceImpl.class

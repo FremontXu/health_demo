@@ -1,0 +1,4 @@
+com\fremont\controller\ValidateCodeController.class
+com\fremont\controller\MemberController.class
+com\fremont\controller\OrderController.class
+com\fremont\controller\SetmealController.class

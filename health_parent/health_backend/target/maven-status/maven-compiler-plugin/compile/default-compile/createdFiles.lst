@@ -1,0 +1,7 @@
+com\fremont\controller\CheckGroupController.class
+com\fremont\controller\SetmealController.class
+com\fremont\controller\OrderSettingController.class
+com\fremont\controller\ReportController.class
+com\fremont\service\SpringSecurityUserService.class
+com\fremont\controller\CheckItemController.class
+com\fremont\controller\UserController.class

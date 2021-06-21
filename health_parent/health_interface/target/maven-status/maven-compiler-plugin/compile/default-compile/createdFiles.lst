@@ -1,0 +1,8 @@
+com\fremont\service\SetmealService.class
+com\fremont\service\UserService.class
+com\fremont\service\MemberService.class
+com\fremont\service\ReportService.class
+com\fremont\service\OrderSettingService.class
+com\fremont\service\CheckGroupService.class
+com\fremont\service\CheckItemService.class
+com\fremont\service\OrderService.class
